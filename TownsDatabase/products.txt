@@ -1,0 +1,18 @@
+shoes,shoes.png
+tvs,tvs.png
+napkins,napkins.png
+curtains,curtains.png
+hand sanitiser,handSanitiser.png
+umbrellas,umbrellas.png
+bottles,bottles.png
+toys,toys.png
+exercise books,exerciseBooks.png
+corkscrew,corkscrew.png
+hatpin,hatpin.png
+rolling pin,rollingPin.png
+lawn mower,lawnMower.png
+shears,shears.png
+dustbin,dustbin.png
+ceramic jug,ceramicJug.png
+carrot cake,carrotCake.png
+pancakes,pancakes.png

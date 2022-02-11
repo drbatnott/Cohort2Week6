@@ -1,0 +1,28 @@
+﻿body
+{
+}
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: #f00;
+}
+
+h3 {
+    font-family: 'MS Gothic';
+}
+
+h4 {
+    font-size: x-large;
+}
+
+p {
+    font-size: x-large;
+    text-shadow: 10px 10px #4cff00;
+    font-family: Calibri;
+}
+
+table {
+    background-color: blue;
+}
